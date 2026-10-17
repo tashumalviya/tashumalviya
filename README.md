@@ -52,22 +52,20 @@ SOS alerts, live location tracking, emergency contact notifications, an AI-power
 
 ---
 
-### 🤝 Team Sync: Team Collaboration App
+### 🛍️ Snitch: E-commerce Web Application
 
-<a href="https://github.com/tashumalviya/Team-Sync">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tashumalviya&repo=Team-Sync&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Team Sync repo card" />
-</a>
+<a href="https://github.com/tashumalviya/Snitch">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tashumalviya&repo=Snitch&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Snitch repo card" />
+</a> |
 
-A responsive team collaboration dashboard with JWT-based authentication, reusable React components and client-side routing.
-
-| Layer | Technology |
+| Component | Technology |
 |-------|------------|
 | Frontend | React.js, JavaScript |
 | Backend | Node.js, Express.js |
 | Database | MySQL |
 | Auth | JWT |
 
-[![Code](https://img.shields.io/badge/Code-Team%20Sync-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=2e3440)](https://github.com/tashumalviya/Team-Sync)
+[![Code](https://img.shields.io/badge/Code-Snitch-7dd3fc?style=for-the-badge&logo=github&logoColor=black&labelColor=2e3440)](https://github.com/tashumalviya/Snitch)
 
 ---
 
