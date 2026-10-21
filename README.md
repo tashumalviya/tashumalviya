@@ -22,7 +22,7 @@
 const tashu = {
   title: "Computer Science Student (B.Tech CSE, Expected 2027)",
   stack: ["C++", "Java", "JavaScript", "React.js", "Node.js", "Express.js", "MySQL"],
-  launchedProjects: ["HerShield: AI Enabled Women Safety App", "Team Sync: Team Collaboration App"],
+  launchedProjects: ["HerShield: AI Enabled Women Safety App", " Snitch: Buy & Sell Marketplace"],
   certifications: [],
   status: "Building full-stack projects & sharpening problem-solving skills",
   openTo: ["Software Development", "Collaboration", "Continuous Learning"],
