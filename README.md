@@ -14,7 +14,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 👨‍💻 About M
 
 > B.Tech CSE student (2027) who likes turning real problems into working products.
 
